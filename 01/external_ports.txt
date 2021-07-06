@@ -1,0 +1,4 @@
+# these are my ports
+    32771
+    32769
+    32770
